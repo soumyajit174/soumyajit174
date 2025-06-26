@@ -1,11 +1,26 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Soumyajit+Bonik+🌸;Welcome+to+my+coding+garden+🌷" alt="Typing SVG" />
+<!-- 🌸 Girly Profile Header for Soumyajit Bonik -->
+
+<h1 align="center" style="color:hotpink;">
+  🌸 Hi there 👋, I'm <span style="color:deeppink;">Soumyajit Bonik</span>
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0BKiaM2VGJ4116xy/giphy.gif" width="200" alt="Flower animation" />
+  <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="200" alt="Flower Blooming" />
 </p>
 
-<p align="center" style="color:#FF69B4; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  🌼 LeetCode Explorer | 💻 Coding Dreamer | 💖 Flower Lover
+<h3 align="center" style="color:hotpink;">
+  💖 Welcome to my world of code & creativity 💖
+</h3>
+
+<p align="center" style="font-size:18px;">
+  🌷 LeetCode Explorer · 🌼 Frontend Flower 🌸<br>
+  💻 Pink-themed Dev | 🌺 Creative Coder | 🌈 Always blooming with new ideas!
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/75/17/f4/7517f4a01462c3f402cb4d0c1d8a18b0.gif" width="300" alt="Butterflies and Flowers" />
+</p>
+
+<p align="center" style="background-color:pink; padding:10px; border-radius:12px;">
+  🌸💗🌸 Let's blossom together in tech! 🌸💗🌸
 </p>
