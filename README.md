@@ -1,7 +1,7 @@
 <!-- 🌸 Girly Profile Header for Soumyajit Bonik -->
 
 <h1 align="center" style="color:hotpink;">
-  🌸 Hi there 👋, I'm <span style="color:deeppink;">Soumyajit Bonik</span>
+  🌈 Hi there 👋, I'm <span style="color:deeppink;">Soumyajit Bonik : Pink Lover</span>
 </h1>
 
 <p align="center">
@@ -9,12 +9,12 @@
 </p>
 
 <h3 align="center" style="color:hotpink;">
-  💖 Welcome to my world of code & creativity 💖
+  🌈 Welcome to my world of code & creativity 🌈
 </h3>
 
 <p align="center" style="font-size:18px;">
-  🌷 LeetCode Explorer · 🌼 Frontend Flower 🌸<br>
-  💻 Pink-themed Dev | 🌺 Creative Coder | 🌈 Always blooming with new ideas!
+  🌈 LeetCode Explorer · 🌼 Frontend Flower 🌸<br>
+ 🌈Pink-themed Dev | 🌺 Creative Coder | 🌈 Always blooming with new ideas!
 </p>
 
 <p align="center">
