@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center" style="color:hotpink;">
-  🌈 Welcome to my world of code & creativity 🌈
+  🌈 Welcome to my world of code & creativity and Support lgbtq 🌈
 </h3>
 
 <p align="center" style="font-size:18px;">
