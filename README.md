@@ -24,3 +24,18 @@
 <p align="center" style="background-color:pink; padding:10px; border-radius:12px;">
   🌸💗🌸 Let's blossom together in tech! 🌸💗🌸
 </p>
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajdevx&theme=radical&hide_border=true" alt="ajdevx's GitHub Streak" />
+</p>
+
+---
+
+### 👁️ Visitor Counter
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ajdevx/count.svg" alt="Visitor Count" />
+</p>
+
